@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm TuanDat and I'm on my way to System Architect</h1>
+<h1>Hi 👋, I'm TuanDat and I'm on my way to Solution Architect</h1>
 <p>Playing with Spring Boot </p>
 <h2>🚀 Languages and Tools I use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
