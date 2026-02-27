@@ -1,4 +1,4 @@
-<h1 align="center">
+h<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Phan+C%E1%BA%A3nh+Tu%E1%BA%A5n+%C4%90%E1%BA%A1t;Backend+Developer+%7C+Java+%26+NestJS;Aspiring+Solution+Architect+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
@@ -130,18 +130,11 @@ interests: [System Design, Cloud Architecture, Backend Development]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ttuandatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ttuandatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ttuandatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ttuandatt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ttuandatt&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ttuandatt&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
